@@ -24,3 +24,9 @@ npx resume-builder-iitrpr
 
 # Note
 ## do not use any special characters in the google sheet such as {},\ etc it might break pdflatex.
+
+# Demonstration
+
+https://github.com/Arpit078/resume-builder/assets/92263716/39519ac1-c1fe-44ea-9c6b-ea903735f50a
+
+
